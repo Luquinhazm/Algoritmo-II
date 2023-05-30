@@ -1,0 +1,15 @@
+C:\Users\lucsm\OneDrive\Documentos\Projetos\CSharp\Algoritmo-II\bin\Debug\net7.0\Algoritmo-II.exe
+C:\Users\lucsm\OneDrive\Documentos\Projetos\CSharp\Algoritmo-II\bin\Debug\net7.0\Algoritmo-II.deps.json
+C:\Users\lucsm\OneDrive\Documentos\Projetos\CSharp\Algoritmo-II\bin\Debug\net7.0\Algoritmo-II.runtimeconfig.json
+C:\Users\lucsm\OneDrive\Documentos\Projetos\CSharp\Algoritmo-II\bin\Debug\net7.0\Algoritmo-II.dll
+C:\Users\lucsm\OneDrive\Documentos\Projetos\CSharp\Algoritmo-II\bin\Debug\net7.0\Algoritmo-II.pdb
+C:\Users\lucsm\OneDrive\Documentos\Projetos\CSharp\Algoritmo-II\obj\Debug\net7.0\Algoritmo-II.csproj.AssemblyReference.cache
+C:\Users\lucsm\OneDrive\Documentos\Projetos\CSharp\Algoritmo-II\obj\Debug\net7.0\Algoritmo-II.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucsm\OneDrive\Documentos\Projetos\CSharp\Algoritmo-II\obj\Debug\net7.0\Algoritmo-II.AssemblyInfoInputs.cache
+C:\Users\lucsm\OneDrive\Documentos\Projetos\CSharp\Algoritmo-II\obj\Debug\net7.0\Algoritmo-II.AssemblyInfo.cs
+C:\Users\lucsm\OneDrive\Documentos\Projetos\CSharp\Algoritmo-II\obj\Debug\net7.0\Algoritmo-II.csproj.CoreCompileInputs.cache
+C:\Users\lucsm\OneDrive\Documentos\Projetos\CSharp\Algoritmo-II\obj\Debug\net7.0\Algoritmo-II.dll
+C:\Users\lucsm\OneDrive\Documentos\Projetos\CSharp\Algoritmo-II\obj\Debug\net7.0\refint\Algoritmo-II.dll
+C:\Users\lucsm\OneDrive\Documentos\Projetos\CSharp\Algoritmo-II\obj\Debug\net7.0\Algoritmo-II.pdb
+C:\Users\lucsm\OneDrive\Documentos\Projetos\CSharp\Algoritmo-II\obj\Debug\net7.0\Algoritmo-II.genruntimeconfig.cache
+C:\Users\lucsm\OneDrive\Documentos\Projetos\CSharp\Algoritmo-II\obj\Debug\net7.0\ref\Algoritmo-II.dll
